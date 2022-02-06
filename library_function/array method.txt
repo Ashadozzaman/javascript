@@ -1,0 +1,14 @@
+1.push()
+push is working for add array in upder array
+2.pop()
+por remove last index.
+3.shift()
+remove first index/ oposite of pop()
+4. unshift()
+Add index initialy/ oposite of push();
+5.splice(start add index, remove index number,'added index','added index');
+splice use for array add and remove.
+6.slice()
+slice remove array and create new array();
+7.sort()
+8.
